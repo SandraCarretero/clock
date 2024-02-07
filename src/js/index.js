@@ -1,3 +1,4 @@
-import { sayHello } from './demo';
+import { updateClock } from "./functions";
 
-sayHello();
+updateClock();
+setInterval(updateClock, 1000);

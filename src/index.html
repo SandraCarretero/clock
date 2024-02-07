@@ -2,16 +2,50 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<link rel="icon" type="image/svg+xml" href="/assets/images/vite.svg" />
+		<!-- <link rel="icon" type="image/svg+xml" href="/assets/images/vite.svg" /> -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="css/base/normalize.css" />
 		<link rel="stylesheet" href="css/base/base.css" />
 		<link rel="stylesheet" href="css/styles.css" />
-		<title>Vite App</title>
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+    	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+		<title>Clock</title>
 	</head>
 	<body>
-		<h1>WEB WITH VITE</h1>
-		<!-- <img src="./assets/images/cute-cat.webp" alt="" /> -->
+		<div class="clock-container">
+			<div class="digital-clock">
+				<div class="time">
+					<span id="digital-hours" class="hours">00</span>
+					<span>:</span>
+					<span id="digital-minutes" class="minutes">00</span>
+				</div>
+				<div class="date">
+					<span id="digital-week-day" class="week-day">Monday</span>
+					<span id="digital-day" class="day">1</span>
+					<span id="digital-month" class="month">January</span>
+					<span id="digital-year" class="year">2000</span>
+				</div>
+			</div>
+			<div class="analog-clock">
+				<div class="lines-clock">
+					<div class="line line-one"></div>
+					<div class="line line-two"></div>
+					<div class="line line-three"></div>
+					<div class="line line-four"></div>
+					<div class="line line-five"></div>
+					<div class="line line-six"></div>
+				</div>
+				<div class="middle-clock">
+					<div class="circle"></div>
+					<div id="clockwise-hour" class="clockwise clockwise-hour"></div>
+					<div id="clockwise-minutes" class="clockwise clockwise-minutes"></div>
+					<div id="clockwise-seconds" class="clockwise clockwise-seconds"></div>
+				</div>
+			</div>
+		</div>
 		<script type="module" src="./js/index.js"></script>
 	</body>
 </html>
