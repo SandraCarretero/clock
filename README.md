@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](https://sandracarretero.github.io/clock/)
+- [https://sandracarretero.github.io/clock/](https://sandracarretero.github.io/clock/)
 
 ## Descripción 📑
 
