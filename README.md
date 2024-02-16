@@ -35,7 +35,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **SANDRA CARRETERO**
 
-- [micorreo@midominio.com](sandracarretero24@gmail.com)
+- [sandracarretero24@gmail.com](sandracarretero24@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sandra-carretero-lopez/)
 <!-- - [Porfolio web](https://tu-dominio.com/) -->
 
