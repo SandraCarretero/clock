@@ -1,6 +1,6 @@
 # CLOCK
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://github.com/SandraCarretero/clock/blob/main/src/assets/images/screencapture-clock.png)
 
 ## Ejemplo en vivo
 
@@ -27,9 +27,7 @@ Al completar este proyecto, he aprendido a integrar HTML, CSS y JavaScript para 
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://github.com/SandraCarretero/clock/blob/main/src/assets/images/clock.png)
 
 ## Autor ✒️
 
