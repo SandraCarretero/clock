@@ -17,6 +17,8 @@ body{
     background-color: #e4ebf5;
     font-family: 'Inter', sans-serif;
     color: #6d5dfc;
+    display: flex;
+    align-items: center;
 }
 
 .clock-container{
